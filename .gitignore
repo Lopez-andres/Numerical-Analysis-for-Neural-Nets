@@ -1,0 +1,35 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Archivos de clase y tareas
+APUNTES*
+CLASE*
+clase*
+Ejercicios*
+Formulas*
+MSR*
+Parcial*
+RESPUESTA*
+Taller*
+practica.ipynb
+mi_primera_red_neuronal.ipynb
+perros_gatos.ipynb
+
+# Imágenes y carpetas de otros proyectos
+*.png
+PetImages/
+imagenesMascotas.zip
+
+# PDFs de Colab
+*.pdf
+
+# Datasets de otros proyectos
+global_house_purchase_dataset.csv
+top_100_movies_full_best_effort.csv
+
+# Scripts de práctica
+cava.py
+
+# Word docs
+*.docx 
