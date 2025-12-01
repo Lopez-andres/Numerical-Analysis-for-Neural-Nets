@@ -80,10 +80,12 @@ Approved           8       523
 
 ```
 Loan-Approval-Prediction/
-├── project_1.ipynb              # Main notebook
-├── loan_approval_dataset.csv    # Dataset (auto-download)
+├── .gitignore
+├── LICENSE
 ├── README.md
-└── LICENSE
+├── loan_approval_dataset.csv    # Dataset (auto-download)
+└── project_1.ipynb              # Main notebook
+
 ```
 
 ---
